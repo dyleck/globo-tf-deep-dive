@@ -1,3 +1,3 @@
 module "github" {
-    source = "./github_config"
+  source = "./github_config"
 }
